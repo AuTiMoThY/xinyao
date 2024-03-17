@@ -1,0 +1,314 @@
+INFO - 2024-02-07 12:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 12:48:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 12:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 12:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 12:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 12:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 12:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 12:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 12:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 13:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 13:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 13:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 13:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 13:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 13:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 13:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 14:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 15:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 16:31:00 --> ErrorException: Array to string conversion
+in APPPATH\Views\frontend\home.php on line 6.
+ 1 APPPATH\Views\frontend\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/home', [], true)
+ 5 APPPATH\Controllers\BaseController.php(87): view('frontend/home', [...])
+ 6 APPPATH\Controllers\Frontend\Home.php(285): App\Controllers\BaseController->renderView('frontend/home', '首頁', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 16:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 16:44:28 --> ArgumentCountError: Too few arguments to function App\Controllers\Frontend\Home::index(), 0 passed in D:\auproject\20240128-mahasati-xinyao\xinyao-ci4\system\CodeIgniter.php on line 941 and at least 1 expected
+in APPPATH\Controllers\Frontend\Home.php on line 253.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 16:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 16:52:56 --> ErrorException: Undefined variable $currentCate
+in APPPATH\Views\frontend\home.php on line 22.
+ 1 APPPATH\Views\frontend\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $currentCate', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/home', [], true)
+ 5 APPPATH\Controllers\BaseController.php(87): view('frontend/home', [...])
+ 6 APPPATH\Controllers\Frontend\Home.php(270): App\Controllers\BaseController->renderView('frontend/home', '首頁', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('1')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 16:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 16:54:03 --> ErrorException: Undefined variable $cateId
+in APPPATH\Controllers\Frontend\Home.php on line 272.
+ 1 APPPATH\Controllers\Frontend\Home.php(272): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cateId', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Controllers\\Frontend\\Home.php', 272)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 16:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 16:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:05:03 --> ErrorException: Undefined variable $xinyaoIndex
+in APPPATH\Controllers\Frontend\Home.php on line 319.
+ 1 APPPATH\Controllers\Frontend\Home.php(319): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $xinyaoIndex', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Controllers\\Frontend\\Home.php', 319)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('2')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 17:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:28:45 --> ErrorException: Undefined array key 1
+in APPPATH\Views\frontend\home.php on line 29.
+ 1 APPPATH\Views\frontend\home.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php', 29)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/home', [], true)
+ 5 APPPATH\Controllers\BaseController.php(87): view('frontend/home', [...])
+ 6 APPPATH\Controllers\Frontend\Home.php(328): App\Controllers\BaseController->renderView('frontend/home', '首頁', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('2')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 17:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:29:14 --> ErrorException: Undefined variable $xinyaoIndex
+in APPPATH\Views\frontend\layout\aside.php on line 26.
+ 1 APPPATH\Views\frontend\layout\aside.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $xinyaoIndex', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\aside.php', 26)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\aside.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('frontend/layout/aside', null, true)
+ 5 APPPATH\Views\frontend\layout\main.php(19): CodeIgniter\View\View->include('frontend/layout/aside')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('frontend/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/home', [], true)
+10 APPPATH\Controllers\BaseController.php(87): view('frontend/home', [...])
+11 APPPATH\Controllers\Frontend\Home.php(328): App\Controllers\BaseController->renderView('frontend/home', '首頁', [...])
+12 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('2')
+13 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+14 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 17:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:30:05 --> ErrorException: Undefined variable $xinyaoIndex
+in APPPATH\Views\frontend\layout\aside.php on line 26.
+ 1 APPPATH\Views\frontend\layout\aside.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $xinyaoIndex', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\aside.php', 26)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\aside.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('frontend/layout/aside', null, true)
+ 5 APPPATH\Views\frontend\layout\main.php(19): CodeIgniter\View\View->include('frontend/layout/aside')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('frontend/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/home', [], true)
+10 APPPATH\Controllers\BaseController.php(87): view('frontend/home', [...])
+11 APPPATH\Controllers\Frontend\Home.php(328): App\Controllers\BaseController->renderView('frontend/home', '首頁', [...])
+12 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('2')
+13 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+14 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-07 17:30:57 --> ErrorException: Access level to App\Controllers\Frontend\Home::getXinyaoIndex() must be public (as in class App\Controllers\BaseController)
+in APPPATH\Controllers\Frontend\Home.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-02-07 17:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:30:59 --> ErrorException: Undefined variable $xinyaoIndex
+in APPPATH\Views\frontend\layout\aside.php on line 26.
+ 1 APPPATH\Views\frontend\layout\aside.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $xinyaoIndex', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\aside.php', 26)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\aside.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('frontend/layout/aside', null, true)
+ 5 APPPATH\Views\frontend\layout\main.php(19): CodeIgniter\View\View->include('frontend/layout/aside')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('frontend/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/home', [], true)
+10 APPPATH\Controllers\BaseController.php(87): view('frontend/home', [...])
+11 APPPATH\Controllers\Frontend\Home.php(42): App\Controllers\BaseController->renderView('frontend/home', '首頁', [...])
+12 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('2')
+13 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+14 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 17:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:31:31 --> ErrorException: Undefined property: App\Controllers\Frontend\Home::$xinyaoIndex
+in APPPATH\Controllers\Frontend\Home.php on line 37.
+ 1 APPPATH\Controllers\Frontend\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Frontend\\Home::$xinyaoIndex', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Controllers\\Frontend\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('2')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 17:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:31:51 --> ErrorException: Undefined property: App\Controllers\Frontend\Home::$getXinyaoIndex
+in APPPATH\Controllers\Frontend\Home.php on line 37.
+ 1 APPPATH\Controllers\Frontend\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Frontend\\Home::$getXinyaoIndex', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Controllers\\Frontend\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('2')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 17:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:36:31 --> ErrorException: Undefined variable $currentCate
+in APPPATH\Views\frontend\home.php on line 22.
+ 1 APPPATH\Views\frontend\home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $currentCate', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/home', [], true)
+ 5 APPPATH\Controllers\BaseController.php(87): view('frontend/home', [...])
+ 6 APPPATH\Controllers\Frontend\Home.php(40): App\Controllers\BaseController->renderView('frontend/home', '首頁', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('1', '2')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 17:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 17:40:23 --> ErrorException: Undefined array key 1
+in APPPATH\Views\frontend\home.php on line 42.
+ 1 APPPATH\Views\frontend\home.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php', 42)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/home', [], true)
+ 5 APPPATH\Controllers\BaseController.php(87): view('frontend/home', [...])
+ 6 APPPATH\Controllers\Frontend\Home.php(40): App\Controllers\BaseController->renderView('frontend/home', '首頁', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('2')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 17:40:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:45:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:59:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 17:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:15:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 18:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 18:59:42 --> ErrorException: Undefined variable $v
+in APPPATH\Views\frontend\xinyao.php on line 43.
+ 1 APPPATH\Views\frontend\xinyao.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $v', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\xinyao.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\xinyao.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/xinyao', [], true)
+ 5 APPPATH\Controllers\BaseController.php(87): view('frontend/xinyao', [...])
+ 6 APPPATH\Controllers\Frontend\Home.php(40): App\Controllers\BaseController->renderView('frontend/xinyao', '首頁', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('1', '1')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 19:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 19:00:10 --> ErrorException: Undefined variable $v
+in APPPATH\Views\frontend\xinyao.php on line 43.
+ 1 APPPATH\Views\frontend\xinyao.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $v', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\xinyao.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\xinyao.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/xinyao', [], true)
+ 5 APPPATH\Controllers\BaseController.php(87): view('frontend/xinyao', [...])
+ 6 APPPATH\Controllers\Frontend\Home.php(40): App\Controllers\BaseController->renderView('frontend/xinyao', '首頁', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('1', '1')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 19:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-07 19:00:21 --> ErrorException: Undefined variable $v
+in APPPATH\Views\frontend\xinyao.php on line 43.
+ 1 APPPATH\Views\frontend\xinyao.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $v', 'D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\xinyao.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\auproject\\20240128-mahasati-xinyao\\xinyao-ci4\\app\\Views\\frontend\\xinyao.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/xinyao', [], true)
+ 5 APPPATH\Controllers\BaseController.php(87): view('frontend/xinyao', [...])
+ 6 APPPATH\Controllers\Frontend\Home.php(40): App\Controllers\BaseController->renderView('frontend/xinyao', '首頁', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Frontend\Home->index('1', '1')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Frontend\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-07 19:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 19:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 19:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 19:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 19:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 19:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 19:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 19:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-07 19:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
