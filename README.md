@@ -1,6 +1,20 @@
-[demo link](http://xinyao.mahasati.in/)
+# 佛印山心藥系統
 
-# 技術說明
+優化原有介面，以更直觀的方式顯示各個項目，也以購物車的概念讓使用者自行添加項目。
+
+頁面:
+- 登入頁
+- 目錄頁
+- 購物車頁
+- 常用項目頁
+- 歷史紀錄頁
+
+
+[這邊看展示 :)](http://xinyao.mahasati.in/)
+
+
+
+# 使用技術
 ## 全站
 - 使用Codeigniter 4框架
 
@@ -9,7 +23,7 @@
 - 互動效果製作
 - 結合Vue3 composition API (非SFC)製作可重用的元件
 - 使用Vue3製作表單功能，包含必填判斷、取值與提交資料給API
-- 使用localStorage計算購物車項目數量
+- 使用localStorage計算購物車中項目數量
 
 
 # 備註
