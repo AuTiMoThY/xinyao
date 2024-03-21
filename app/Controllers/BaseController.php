@@ -110,8 +110,6 @@ abstract class BaseController extends Controller
                         'parts' => [
                             [ 'part_name' => '背部軀幹', 'part_img' => 'http://maha-sati.org/admin/attached/media/20170827/20170827173147854785.jpeg' ],
                             [ 'part_name' => '腿部正面', 'part_img' => 'http://maha-sati.org/admin/attached/media/20170827/20170827173368266826.jpeg' ],
-                            [ 'part_name' => '男性 陰部', 'part_img' => 'http://maha-sati.org/admin/attached/media/20170827/20170827173496559655.jpeg' ],
-                            [ 'part_name' => '女性陰部', 'part_img' => 'http://maha-sati.org/admin/attached/media/20170827/2017082717370232232.jpeg' ],
                         ]
                     ],
                     [
